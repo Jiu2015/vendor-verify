@@ -5,8 +5,7 @@ import (
 	"os"
 	"path/filepath"
 
-	vendorverify "vendor-verify"
-
+	vendorverify "github.com/Jiu2015/vendor-verify"
 	"github.com/spf13/cobra"
 )
 

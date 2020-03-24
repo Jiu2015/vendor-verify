@@ -1,4 +1,4 @@
-module vendor-verify
+module github.com/Jiu2015/vendor-verify
 
 go 1.13
 

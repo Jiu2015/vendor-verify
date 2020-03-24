@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"vendor-verify/cmd"
+	"github.com/Jiu2015/vendor-verify/cmd"
 )
 
 func main() {
