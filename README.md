@@ -8,10 +8,16 @@ The go.mod file will be changed by some reasons, you need run `go mod vendor` to
 
 In the go.mod file record the package names and versions, and the vendor root path will have modules.txt which still store the package names and versions. This tool will check both of them.
 
+#### How to install
+
+```shell
+go get -u github.com/Jiu2015/vendor-verify/vendor-verify
+```
+
 #### How to use
 
-```
-vendor-verify verify --path <the path of you project>
+```shell
+vendor-verify verify --path <the path of your project>
 ```
 
 
